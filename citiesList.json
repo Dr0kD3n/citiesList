@@ -1,0 +1,7 @@
+{
+	{name: 'Moscow', temp: '-5', 'wind': '4', pressure: '752'},
+	{name: 'Chicage', temp: '7', 'wind': '6', pressure: '752'},
+	{name: 'LosAngeles', temp: '19', 'wind': '4', pressure: '752'},
+	{name: 'Budapest', temp: '2', 'wind': '4', pressure: '752'},
+	{name: 'Moscow', temp: '17', 'wind': '4', pressure: '752'}
+}
