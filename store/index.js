@@ -7,7 +7,7 @@ const createStore = () => {
     }),
     mutations: {
       fetchData(state) {
-        axios.get('https://cdn.jsdelivr.net/gh/Dr0kD3n/citiesList/kek.json', {
+        axios.get('https://cdn.jsdelivr.net/gh/Dr0kD3n/citiesList/data.json', {
             headers: {
               'Content-Type': 'application/json;charset=UTF-8',
             },
